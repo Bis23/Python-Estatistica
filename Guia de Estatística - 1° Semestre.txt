@@ -1,0 +1,72 @@
+
+Aula 01 - Introdução à Estatística
+
+Aula 02 - Estatística Descritiva 01
+- Distribuição de Frequência
+- Histogramas de Frequência
+- Polígono de Frequência
+
+Aula 03 - Estatística Descritiva 02
+- Histograma de Frequência Relativa
+- Ogiva (Frequência acumulada)
+- Pizza
+- Pareto
+- Diagrama de Dispersão (x)
+- Séries Temporais
+
+Aula 04 - Estatística Descritiva 03
+- Histograma de Distribuição
+- Medidas de tendência central da distribuição
+- Média Ponderada (série e agrupamento de dados) 
+- Média de uma distribuição de frequência
+
+Aula 05 - Estatística Descritiva 04
+- Amplitude, média e mediana
+- Média e desvio padrão
+
+Aula 06 - Estatística Descritiva 05
+- Análide de quartis
+- Separatizes
+- Análise exploratória inicial (todos os dados com um único comando)
+- Boxplot
+- Escores-z
+
+Aula 07 - Probabilidade
+- Espaços amostrais
+- Cálculo de probabilidade
+- Probabilidades empíricas
+- A lei dos grandes números
+
+Aula 08 - Probabilidade Condicional
+- Distribuição Conjunta de Frequências
+- Distribuição Conjunta normalizada pelas colunas
+- Distribuição Conjunta normalizada pelas linhas (índice)
+
+Aula 09 - Distribuições Discretas de Probabilidade 01
+- Média de uma distribuição discreta
+- Variância e desv pad de uma distribuição discreta
+
+Aula 10 - Distribuições Discretas de Probabilidade 02
+- Distribuição Binomial
+- Parâmetros populacionais de uma distribuição binomial
+- Probabilidades Binomiais
+
+Aula 11 - Distribuição Normal de Probabilidade 01
+- Curva Normal
+- Curva normal padrão
+
+Aula 12 - Distribuição Normal de Probabilidade 02
+- Encontrando escores-z
+- Distribuição amostrais
+- Probabilidades e o TLC
+
+Aula 13 - Intervalos de Confiança 01
+- Estimativa pontual
+- Intervalo de confiança para a média, com sigma conhecido (desv pad)
+- Alterando nível de confiança
+- Intervalo de confiança para a média, com sigma desconhecido
+
+
+Aula 14 - Intervalos de Confiança 02
+- Distribuição Chi-Quadrado
+- Intervalos de confiança para variância e o desvio pad
